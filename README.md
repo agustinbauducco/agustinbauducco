@@ -1,7 +1,7 @@
 ## Hola, soy Agustín
 
 Analista de datos orientado al sector financiero.  
-Interés en análisis cuantitativo, SQL, BI y modelado.
+Interés profundo en el mundo de los datos y el sector financiero.
 
 ### Habilidades
 - SQL
