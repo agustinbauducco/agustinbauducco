@@ -11,7 +11,7 @@ Interés en análisis cuantitativo, SQL, BI y modelado.
 
 ### Proyectos
 - Análisis financiero  
-[Ver repositorio](link)
+[Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
 
 ### Contacto
