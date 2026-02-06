@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola, soy Agustín
 
-<!--
-**agustinbauducco/agustinbauducco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos orientado al sector financiero.  
+Interés en análisis cuantitativo, SQL, BI y modelado.
 
-Here are some ideas to get you started:
+### Habilidades
+- SQL (avanzado)
+- Python (pandas, numpy)
+- Looker / Google Sheets
+- Análisis financiero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos
+- Análisis financiero  
+[Ver repositorio](link)
+
+
+### Contacto
+- LinkedIn: https://www.linkedin.com/in/agus-bauducco-70152a293/
+- Email: agustinbauducco@gmail.com
