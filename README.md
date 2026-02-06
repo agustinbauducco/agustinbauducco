@@ -8,23 +8,23 @@
 - Análisis financiero  
 [Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
-**banking-analytics-project**
+**BANKING-ANALITYCS-PROJECT**
 │
-├── *data*
+├── **data**
 │   ├── clientes.csv
 │   ├── cuentas.csv
 │   ├── transacciones.csv
 │   └── prestamos.csv
 │
-├── *sql*
+├── **sql**
 │   ├── clean_data.sql
 │   ├── kpis.sql
 │   └── risk_analysis.sql
 │
-├── *notebooks*
+├── **notebooks**
 │   └── data_generation.ipynb
 │
-├── *looker*
+├── **looker**
 │   └── dashboard_screenshots.png
 │
 └── README.md
