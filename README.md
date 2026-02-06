@@ -16,7 +16,6 @@
 │   ├── transacciones.csv
 │   └── prestamos.csv
 │
-│
 ├--> *SQL*
 │   ├── clean_data.sql
 │   ├── kpis.sql
