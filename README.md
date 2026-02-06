@@ -1,8 +1,3 @@
-## Hola, soy Agustín
-
-Analista de datos orientado al sector financiero.  
-Interés profundo en el mundo de los datos y el sector financiero.
-
 ### Habilidades
 - SQL
 - Python (pandas, numpy, matplotlib)
@@ -13,6 +8,26 @@ Interés profundo en el mundo de los datos y el sector financiero.
 - Análisis financiero  
 [Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
+banking-analytics-project/
+│
+├── data/
+│   ├── clientes.csv
+│   ├── cuentas.csv
+│   ├── transacciones.csv
+│   └── prestamos.csv
+│
+├── sql/
+│   ├── clean_data.sql
+│   ├── kpis.sql
+│   └── risk_analysis.sql
+│
+├── notebooks/
+│   └── data_generation.ipynb
+│
+├── looker/
+│   └── dashboard_screenshots.png
+│
+└── README.md
 
 ### Contacto
 - LinkedIn: https://www.linkedin.com/in/agus-bauducco-70152a293/
