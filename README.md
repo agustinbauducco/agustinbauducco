@@ -4,7 +4,7 @@
 - Statical and Financial Analysis
 - Python (pandas, numpy, matplotlib)
 
-### Proyects
+### Projects
  
 [View Repository](https://github.com/agustinbauducco?tab=repositories)
 
