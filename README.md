@@ -1,11 +1,11 @@
 ### Habilidades
 - SQL
-- Python (pandas, numpy, matplotlib)
 - Looker / Google Sheets
 - Análisis estadístico / financiero
+- Python (pandas, numpy, matplotlib)
 
 ### Proyectos
-- Análisis financiero  
+ 
 [Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
 **BANKING-ANALITYCS-PROJECT**
