@@ -9,5 +9,5 @@
 [Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
 ### Contacto
-- LinkedIn: www.linkedin.com/in/agustin-bauducco-70152a293
+- LinkedIn: www.linkedin.com/in/agustin-bauducco
 - Email: agustinbauducco@gmail.com
