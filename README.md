@@ -1,4 +1,4 @@
-### Habilities
+### Skills
 - SQL
 - Looker / Google Sheets
 - Statical and Financial Analysis
