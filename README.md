@@ -2,7 +2,7 @@
 - SQL
 - Looker / Google Sheets
 - Statical and Financial Analysis
-- Python (pandas, numpy, matplotlib)
+- Python (pandas, numpy, matplotlib, seaborn)
 
 ### Projects
  
